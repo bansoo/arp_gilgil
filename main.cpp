@@ -20,7 +20,6 @@ void usage() {
     printf("sample: pcap_test wlan0\n");
 }
 
-using namespace std;
 
 
 void GetMyIp(char * dev, uint8_t * Ban_Ip)
